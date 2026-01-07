@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ComposeApp",
-            url: "https://github.com/developerroshan09/xcframework_dist_spm/releases/download/1.1.2/ComposeApp.xcframework.zip",
-            checksum: "8e12bdc87e8209a3fd1db743246f0e2d7af81de1dee47368c34e5ffbfc92f998"
+            url: "https://github.com/developerroshan09/xcframework_dist_spm/releases/download/1.1.3/ComposeApp.xcframework.zip",
+            checksum: "7d7440e4242b56e0189a02365c268bc0c81f206e496a305e60ded9374f1e6595"
         )
     ]
 )
